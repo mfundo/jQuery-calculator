@@ -9,6 +9,9 @@ Usage
 
 
 ### The HTML
+
+```html
+
 <div class="calculator">
 
 	<table class="calc-table">
@@ -53,14 +56,17 @@ Usage
 
 </div>
 
+```
+
 
 ### The JS
 
-
+```javascript
 $('.calculator').calc({
 	'theme' : 'dark'
 });
 
+```
 
 #### Dependencies
 
